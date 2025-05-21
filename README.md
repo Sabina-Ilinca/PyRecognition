@@ -5,5 +5,7 @@ The files are created in such way they are working on their own.
 Technology Stack:
 
 Python & Numpy
+
 OpenCV
+
 Mediapipe
